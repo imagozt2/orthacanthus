@@ -1,0 +1,128 @@
+﻿<ZT2Strings>
+<entityname>
+   <!--animal names-->
+      <orthacaimg>Orthacanthus</orthacaimg>
+      <orthacaimg_stt>Orthacanthus</orthacaimg_stt>
+      <orthacaimg_lower>the Orthacanthus</orthacaimg_lower>
+      <orthacaimg_ltt>
+         <color r="255" g="248" b="178">
+            <b>Orthacanthus</b>
+         </color>
+         <br/>
+         Click to place a Orthacanthus.
+      </orthacaimg_ltt>
+      <!--gift names-->
+      <orthacaimg_Gift>Orthacanthus</orthacaimg_Gift>
+      <orthacaimg_Gift_stt>Orthacanthus</orthacaimg_Gift_stt>
+      <orthacaimg_Gift_lower>the Orthacanthus</orthacaimg_Gift_lower>
+      <orthacaimg_Gift_ltt>
+         <color r="255" g="248" b="178">
+            <b>Orthacanthus</b>
+         </color>
+         <br/>.
+      </orthacaimg_Gift_ltt>
+</entityname>
+<zoopedia_orthacaimg>
+ <entry>Orthacanthus</entry>
+ <text>
+  <cell pady="0" width="1000"/>
+  <p/>
+  <cell width="260"/>
+  <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+   <cell width="600" padx="20" pady="20">
+   
+               <cell width="284">
+						 <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+						  <img src="entities/units/animals/orthacaimg/orthacaimg_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/extinct.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Conservation Status: 
+                     <br/>
+                        <color r="255" g="255" b="255">
+                     Extinct
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>   
+   
+    <cell width="128">
+     <color r="255" g="255" b="255">Freshwater<br/></color>
+     <img src="ui/icon_biomes/icon_wetlands.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+    </cell>
+    <cell width="128">
+     <color r="255" g="255" b="255">Lakes<br/></color> 
+     <img src="ui/icon_maplocations/wetlands_worldwide.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+    </cell>
+    <br/>
+    <cell width="284" pady="10">
+     <color r="255" g="255" b="255">Class: Cartilaginous fish <i>(Chondricthyes)</i><br/>Order: Sharks <i>(Xenacanthiformes)</i><br/>Family: <i>Xenacanthidae</i><br/>Genus: <i>Orthacanthus</i><br/>Species: <i>O. gibbosus</i>
+     </color>
+    </cell>
+    <cell width="256" pady="10">
+     <img src="UI/zoopedia/biome/wetlands_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+    </cell>
+   </cell>
+  </cell>
+  <p/>
+  <p/>
+  <cell width="260"/>
+  <cell width="300">
+   <cell width="64">
+    <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+   </cell>
+   <cell width="176">
+    <color r="255" g="255" b="255">
+     <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Fun Orthacanthus Facts</font>
+    </color>
+   </cell>
+   <p/>
+   <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+    <p/>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">It is said that this species could grow to 3 to 4 meters.</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>    
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">It was a freshwater shark.</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>        
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">The genus Orthacanthus born 400 million years ago, and died 225 million years ago.</color>
+       
+    </cell>
+  </cell>
+  </cell>
+  <cell width="340">
+   <color r="255" g="248" b="178">
+    To unlock the Orthacanthus in challenge or campaign games, you must earn a 3 star zoo fame rating for your zoo. 
+   </color>
+<p/>Orthacanthus is an extinct genus of fresh-water shark from a family of prehistoric sharks known as Xenacanths. Members of the genus had a long spine growing from the back of their skull and a very long dorsal fin, which ran all along its back giving it an eel-like appearance. About 260 million years ago, Orthacanthus was the apex predator of freshwater swamps and bayous in Europe and North America. Its body reached nearly 10 feet (3 meters) in length and owned a peculiar set of double-fanged teeth. They first appeared about 400 million years ago in the Devonian, and became extinct just before the Mesozoic, about 225 million years ago. In the genre Orthacanthus had 13 different species, which lived from the Carboniferous to Permian.
+
+</cell>
+  <p/>
+  <cell width="260"/>
+  <cell width="620">
+   Information from <color r="255" g="231" b="135">Wikipedia and other sites</color>Imago<color r="0" g="0" b="0"></color>
+  </cell>
+ </text>
+</zoopedia_orthacaimg>
+</ZT2Strings>

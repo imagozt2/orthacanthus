@@ -1,0 +1,35 @@
+<BFTypedBinder binderType="orthacaimg_Adult_M">
+   <types>
+      <entity>
+         <actor>
+            <animal>
+               <Chondrichthyes>
+                  <Carcharhiniformes>
+                     <Carcharhinidae>
+                        <orthacaimg>
+                           <orthacaimg_Adult>
+                              <orthacaimg_Adult_M/>
+                           </orthacaimg_Adult>
+                        </orthacaimg>
+                     </Carcharhinidae>
+                  </Carcharhiniformes>
+               </Chondrichthyes>
+            </animal>
+         </actor>
+      </entity>
+   </types>
+   <instance>
+      <BFGEntity/>
+   </instance>
+   <shared>
+      <UIToggleButton template="adopt">
+         <UIAspect>
+            <default image="entities\units\animals\orthacaimg\orthacaimg_Adult_F_icon.dds"/>
+         </UIAspect>
+         <on>
+            <event msg="ZT_SETPLACEMENTOBJECT" data="BFString" string="orthacaimg_Adult_M"/>
+         </on>
+      </UIToggleButton>
+      <BFAIEntityDataShared b_Male="1"/>
+   </shared>
+</BFTypedBinder>
